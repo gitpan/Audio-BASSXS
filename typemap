@@ -6,3 +6,5 @@ HSTREAM T_IV
 const void *    T_SV
 const GUID *    T_IV
 DOWNLOADPROC *  T_PV
+const char *	T_PV
+float           T_FLOAT

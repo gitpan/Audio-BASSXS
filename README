@@ -14,7 +14,7 @@ DEPENDENCIES
 
 This module needs to have the BASS audio library installed. You can download
 BASS from http://www.un4seen.com/bass.html. To successfully compile this
-module, the bass.h and bass.dll need to be available
+module, the bass.h, bass.lib and bass.dll need to be available
 
 COPYRIGHT AND LICENCE
 
